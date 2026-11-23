@@ -1,40 +1,39 @@
-# Python Workspace
+# Python Practice
 
-This repository is a centralized workspace for my Python development projects, categorized by their complexity and intended use case.
+My journey learning Python through structured, hands-on projects.
+Following a 7-stage roadmap: basics → functions → file handling →
+APIs → web scraping → OOP basics → OOP advanced.
 
----
+## Progress: 14/28 projects complete
 
-## 📂 Repository Structure
+## Stage 1 — Basics
+- [x] 01. Number Guessing Game
+- [x] 02. Simple Calculator
+      
+## Stage 2 - Functions & Structure
+- [x] 03. Temperature Converter
+- [x] 04. Password Generator
+- [x] 05. Times Table Printer
+- [x] 06. Simple Quiz App
 
-### 🛠️ [General Utilities](./general-utilities/)
-This directory contains foundational Python scripts and everyday automation tools. The primary focus of this folder includes:
-* **Core Logic & Algorithms:** Basic scripts demonstrating Python's fundamental capabilities.
-* **General Automation:** Simple tools designed to solve common tasks or create interactive CLI experiences.
-* **Logic Games:** Small-scale implementations of classic games and puzzles.
+## Stage 3 — File Handling
+- [x] 07. Personal Diary
+- [x] 08. Expense Tracker
+- [x] 09. Contact Book
+- [x] 10. Student Grade Report
 
-### 🛡️ [Pentest Tools](./pentest-tools/)
-This directory is dedicated to cybersecurity, networking, and ethical hacking scripts. These projects leverage specialized libraries to interact with network protocols and web environments. Key areas include:
-* **Network Analysis:** Scripts utilizing `Scapy` and `python-nmap` for packet manipulation and network scanning.
-* **Web Automation:** Using `Selenium` for browser-based automation and reconnaissance.
-* **Security Research:** Specialized tools designed for vulnerability testing and security auditing.
+## Stage 4 — APIs
+- [x] 11. Weather CLI
+- [x] 12. GitHub Profile Analyzer
+- [x] 13. Currency Converter
+- [x] 14. URL Health Checker
 
----
+## Stage 5 — Web Scraping
+- [ ] 15. News Headline Scraper
+- [ ] 16. Book Vault Scraper
+- [ ] 17. Price Tracker
+- [ ] 18. Job Board Agent
 
-## ⚙️ Setup & Requirements
-
-To run the scripts within this workspace, ensure you have **Python 3.x** installed. Some advanced tools in the `pentest-tools` directory require external dependencies:
-
-```bash
-pip install scapy selenium python-nmap
-[!CAUTION]
-Ethical Use Warning: The tools located in the pentest-tools directory are for educational and authorized security testing purposes only. Usage of these tools for attacking targets without prior mutual consent is strictly prohibited and may be illegal.
-
----
-
-🚀 How to Use
-1. Clone the repository: git clone https://github.com/YOUR_USERNAME/repository.git
-
-2. Navigate to the desired folder.
-
-3. Run any script using: python script_name.py
-```
+## What I'm learning
+Each project's own README documents what I learned building it.
+See individual project folders for details.
